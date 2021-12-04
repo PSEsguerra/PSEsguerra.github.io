@@ -105,6 +105,12 @@ h1 {
     box-shadow: 5px 5px 4px -1px #888;
 }
 
+.different {
+    color: #97A4A6;
+    text-decoration: line-through;
+    transform: rotate(-5deg);
+}
+
 /* General Setup and Defaults */
 
 * {
