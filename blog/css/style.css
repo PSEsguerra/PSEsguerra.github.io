@@ -172,6 +172,10 @@ aside button {
     
 }
 
+.expand {
+    font-size: .5rem;
+}
+
 .subsection {
     display: flex;
 }
